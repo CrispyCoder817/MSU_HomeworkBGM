@@ -15,10 +15,11 @@
     align-items: center;
     padding: 40px 40px 0;
     margin: auto;
-    background-image: <img="KIDS1-03.png">
+    background-color: var(--Color01);
+    background-image: url(KIDS1-03.png);
     transition:
 }
-.nav {
+#nav {
     Font-family:var(--Type);
     display: inline-flexbox;
     contain: size 20px;
